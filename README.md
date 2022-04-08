@@ -24,6 +24,31 @@
 
 <!-- - 🧐 Portfolio Website, https://#.github.io -->
 
+## aboutMe.js
+
+```javascript
+const Neil = {
+    pronouns: "he" | "him",
+    code: [Javascript, TypeScript, C#],
+    myDay: "🌭 Eat - 🧑‍💻 Code - 😪 Sleep - 🔁 Repeat",
+    askMeAbout:["Everything"],
+    technology: {
+        frontEnd:{
+            css: ["tailwind", "bootstrap"],
+            framework: ["React", "Angular"]
+        },
+        backEnd:{
+            js: ["Node", "NestJs"],
+            c#: ["Dotnet"]
+        },
+        database: {
+            SQL: ["SQL Server"],
+            noSQL: ["mongo"]
+        }
+    }
+}
+```
+
 ### Spotify Playing 🎸
 
 [![Spotify](https://readme-spo.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
