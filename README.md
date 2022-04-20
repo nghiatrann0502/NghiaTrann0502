@@ -53,9 +53,9 @@ const Neil = {
 
 [![Spotify](https://readme-spo.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
 
-[![NghiaTran's GitHub stats](https://github-readme-stats.vercel.app/api?username=NghiaTran0502&theme=dracula&show_icons=true&count_private=true)](https://github.com/NghiaTran0502)
+<!-- [![NghiaTran's GitHub stats](https://github-readme-stats.vercel.app/api?username=NghiaTran0502&theme=dracula&show_icons=true&count_private=true)](https://github.com/NghiaTran0502) -->
 
-[![NghiaTran's Language](https://github-readme-stats.vercel.app/api/top-langs?username=nghiatran0502&show_icons=true&locale=en&layout=compact&theme=dracula&count_private=true&hide=php)](https://github.com/NghiaTran0502)
+<!-- [![NghiaTran's Language](https://github-readme-stats.vercel.app/api/top-langs?username=nghiatran0502&show_icons=true&locale=en&layout=compact&theme=dracula&count_private=true&hide=php)](https://github.com/NghiaTran0502) -->
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-27-blue)
