@@ -58,41 +58,41 @@ const Neil = {
 <!-- [![NghiaTran's Language](https://github-readme-stats.vercel.app/api/top-langs?username=nghiatran0502&show_icons=true&locale=en&layout=compact&theme=dracula&count_private=true&hide=php)](https://github.com/NghiaTran0502) -->
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-27-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-282-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-36%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 301 Contributions in the Year 2022
+> 🏆 302 Contributions in the Year 2022
  > 
 > 📦 8.3 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 7 Public Repositories 
+> 📜 6 Public Repositories 
  > 
 > 🔑 3 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    70 commits     ███████░░░░░░░░░░░░░░░░░░   31.11% 
-🌆 Daytime    106 commits    ███████████░░░░░░░░░░░░░░   47.11% 
-🌃 Evening    47 commits     █████░░░░░░░░░░░░░░░░░░░░   20.89% 
-🌙 Night      2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.89%
+🌞 Morning    71 commits     ███████░░░░░░░░░░░░░░░░░░   31.28% 
+🌆 Daytime    106 commits    ███████████░░░░░░░░░░░░░░   46.7% 
+🌃 Evening    48 commits     █████░░░░░░░░░░░░░░░░░░░░   21.15% 
+🌙 Night      2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.88%
 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday       42 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.67% 
-Tuesday      45 commits     █████░░░░░░░░░░░░░░░░░░░░   20.0% 
-Wednesday    61 commits     ██████░░░░░░░░░░░░░░░░░░░   27.11% 
-Thursday     26 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.56% 
-Friday       14 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.22% 
-Saturday     28 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.44% 
-Sunday       9 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.0%
+Monday       42 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.5% 
+Tuesday      45 commits     █████░░░░░░░░░░░░░░░░░░░░   19.82% 
+Wednesday    62 commits     ██████░░░░░░░░░░░░░░░░░░░   27.31% 
+Thursday     27 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.89% 
+Friday       14 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.17% 
+Saturday     28 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.33% 
+Sunday       9 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.96%
 
 ```
 
@@ -103,13 +103,13 @@ Sunday       9 commits      █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C#                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Rider                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
 ```
 
@@ -130,5 +130,5 @@ Python                   1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/NghiaTran0502/NghiaTran0502/main/charts/bar_graph.png) 
 
 
- Last Updated on 20/04/2022 15:48:27 UTC
+ Last Updated on 21/04/2022 01:06:21 UTC
 <!--END_SECTION:waka-->
