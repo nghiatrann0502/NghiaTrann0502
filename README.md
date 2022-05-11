@@ -60,15 +60,15 @@ const Neil = {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-33-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-26-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-43%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 384 Contributions in the Year 2022
+> 🏆 391 Contributions in the Year 2022
  > 
-> 📦 8.3 kB Used in GitHub's Storage 
+> 📦 8.4 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -105,18 +105,18 @@ Sunday       9 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-TypeScript               17 hrs 18 mins      █████████████░░░░░░░░░░░░   52.65% 
-C#                       14 hrs 35 mins      ███████████░░░░░░░░░░░░░░   44.35% 
-JSON                     28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.46% 
-JavaScript               12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.61% 
-GitIgnore file           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.18%
+C#                       16 hrs 57 mins      ████████████░░░░░░░░░░░░░   50.3% 
+TypeScript               15 hrs 35 mins      ███████████░░░░░░░░░░░░░░   46.24% 
+JSON                     29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.45% 
+JavaScript               12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.6% 
+SCSS                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.39%
 
 🔥 Editors: 
-WebStorm                 17 hrs 50 mins      █████████████░░░░░░░░░░░░   54.26% 
-Rider                    15 hrs 2 mins       ███████████░░░░░░░░░░░░░░   45.74%
+Rider                    17 hrs 25 mins      █████████████░░░░░░░░░░░░   51.66% 
+WebStorm                 16 hrs 18 mins      ████████████░░░░░░░░░░░░░   48.34%
 
 💻 Operating System: 
-Mac                      32 hrs 53 mins      █████████████████████████   100.0%
+Mac                      33 hrs 43 mins      █████████████████████████   100.0%
 
 ```
 
@@ -137,5 +137,5 @@ Python                   1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/NghiaTran0502/NghiaTran0502/main/charts/bar_graph.png) 
 
 
- Last Updated on 10/05/2022 01:21:40 UTC
+ Last Updated on 11/05/2022 01:52:58 UTC
 <!--END_SECTION:waka-->
