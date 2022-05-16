@@ -58,7 +58,7 @@ const Neil = {
 <!-- [![NghiaTran's Language](https://github-readme-stats.vercel.app/api/top-langs?username=nghiatran0502&show_icons=true&locale=en&layout=compact&theme=dracula&count_private=true&hide=php)](https://github.com/NghiaTran0502) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-113%20hrs%202%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
@@ -66,7 +66,7 @@ const Neil = {
 
 **🐱 My GitHub Data** 
 
-> 🏆 402 Contributions in the Year 2022
+> 🏆 406 Contributions in the Year 2022
  > 
 > 📦 8.4 kB Used in GitHub's Storage 
  > 
@@ -105,18 +105,18 @@ Sunday       9 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-TypeScript               25 hrs 25 mins      █████████████████░░░░░░░░   70.02% 
-C#                       9 hrs 26 mins       ██████░░░░░░░░░░░░░░░░░░░   25.99% 
-SCSS                     34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.57% 
-JSON                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.73% 
-JavaScript               12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.56%
+TypeScript               26 hrs 50 mins      █████████████████░░░░░░░░   68.48% 
+C#                       10 hrs 39 mins      ██████░░░░░░░░░░░░░░░░░░░   27.2% 
+SCSS                     45 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.94% 
+JSON                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.79% 
+JavaScript               12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.52%
 
 🔥 Editors: 
-WebStorm                 26 hrs 42 mins      ██████████████████░░░░░░░   73.56% 
-Rider                    9 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   26.44%
+WebStorm                 28 hrs 21 mins      ██████████████████░░░░░░░   72.36% 
+Rider                    10 hrs 50 mins      ███████░░░░░░░░░░░░░░░░░░   27.64%
 
 💻 Operating System: 
-Mac                      36 hrs 18 mins      █████████████████████████   100.0%
+Mac                      39 hrs 12 mins      █████████████████████████   100.0%
 
 ```
 
@@ -137,5 +137,5 @@ Python                   1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/NghiaTran0502/NghiaTran0502/main/charts/bar_graph.png) 
 
 
- Last Updated on 15/05/2022 01:56:15 UTC
+ Last Updated on 16/05/2022 01:40:17 UTC
 <!--END_SECTION:waka-->
