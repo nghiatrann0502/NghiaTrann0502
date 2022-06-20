@@ -62,6 +62,8 @@ const Neil = {
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
+[![wakatime](https://wakatime.com/badge/user/98018afb-c649-4152-b3e1-18c27296e9f8.svg)](https://wakatime.com/@98018afb-c649-4152-b3e1-18c27296e9f8)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-192%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
