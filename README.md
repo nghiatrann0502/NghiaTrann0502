@@ -58,7 +58,7 @@ const Neil = {
 <!-- [![NghiaTran's Language](https://github-readme-stats.vercel.app/api/top-langs?username=nghiatran0502&show_icons=true&locale=en&layout=compact&theme=dracula&count_private=true&hide=php)](https://github.com/NghiaTran0502) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-402%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -105,18 +105,18 @@ Sunday       15 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-TypeScript               44 hrs 59 mins      ████████████████████████░   97.3% 
-JSON                     30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.08% 
-Text                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.38% 
-JavaScript               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.3% 
-CSS                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.2%
+TypeScript               46 hrs 21 mins      ███████████████████████░░   93.72% 
+Text                     42 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.44% 
+JSON                     33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.13% 
+Nginx Configuration      31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.05% 
+Nginx configuration file 29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.98%
 
 🔥 Editors: 
-WebStorm                 46 hrs 13 mins      █████████████████████████   100.0% 
+WebStorm                 49 hrs 27 mins      █████████████████████████   100.0% 
 Neovim                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 💻 Operating System: 
-Mac                      46 hrs 13 mins      █████████████████████████   100.0%
+Mac                      49 hrs 27 mins      █████████████████████████   100.0%
 
 ```
 
@@ -137,5 +137,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/NghiaTran0502/NghiaTran0502/main/charts/bar_graph.png) 
 
 
- Last Updated on 24/07/2022 02:05:56 UTC
+ Last Updated on 25/07/2022 01:58:41 UTC
 <!--END_SECTION:waka-->
