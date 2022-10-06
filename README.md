@@ -57,9 +57,9 @@ const Neil = {
 
 <!-- [![NghiaTran's Language](https://github-readme-stats.vercel.app/api/top-langs?username=nghiatran0502&show_icons=true&locale=en&layout=compact&theme=dracula&count_private=true&hide=php)](https://github.com/NghiaTran0502) -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nghiatran0502&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![wakatime](https://wakatime.com/badge/user/98018afb-c649-4152-b3e1-18c27296e9f8.svg)](https://wakatime.com/@98018afb-c649-4152-b3e1-18c27296e9f8)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NeilTran)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nghiatran0502&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
 
