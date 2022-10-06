@@ -59,7 +59,6 @@ const Neil = {
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nghiatran0502&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nghiatran0502&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NeilTran&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
 
