@@ -32,7 +32,7 @@ const Neil = {
     code: [Javascript, TypeScript, C#],
     myDay: "🌭 Eat - 🧑‍💻 Code - 😪 Sleep - 🔁 Repeat",
     askMeAbout:["Everything"],
-    technology: {
+    technologies: {
         frontEnd:{
             css: ["tailwind", "bootstrap"],
             framework: ["React", "Angular"]
