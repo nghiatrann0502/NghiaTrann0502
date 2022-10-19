@@ -1,16 +1,11 @@
-<h1 align="center">Hi ❄️, I'm NghiaTran(Neil)</h1>
-<h3 align="center">A developer from VietNam</h3>
-<br />
-<br />
+<h1>Hi ❄️, I'm NghiaTran(Neil) <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
+
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220">
 
 <!-- [![YouTube Badge](https://img.shields.io/badge/-@Dhruv%20Jain-c4302b?style=flat-square&labelColor=c4302b&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCQXt2DMbgcjO5xpAd0cFS8A)](https://www.youtube.com/channel/UCQXt2DMbgcjO5xpAd0cFS8A)  -->
-<h3 align="left">Connect with me:</h3>
 
-[![Twitter Badge](https://img.shields.io/badge/-@Nghia-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sudo_am_dev)](https://twitter.com/sudo_am_dev) [![Instagram Badge](https://img.shields.io/badge/-@sudo.nghia-F44747?style=flat-square&labelColor=F44747&logo=instagram&logoColor=white&link=https://instagram.com/sudo.nghia)](https://instagram.com/sudo.nghia) [![Linkedin Badge](https://img.shields.io/badge/-NghiaTran-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nghiatran0502/)](https://www.linkedin.com/in/nghiatran0502/)
-[![Gmail Badge](https://img.shields.io/badge/-nd.madlife@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nd.madlife@gmail.com)](mailto:nd.madlife@gmail.com)
 
-## I'm a Developer!
+<!-- ## <img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" width="50"> I'm a Developer! -->
 
 <!-- - 🔭 I’m currently working at **STL Solution** -->
 
@@ -24,7 +19,7 @@
 
 <!-- - 🧐 Portfolio Website, https://#.github.io -->
 
-## aboutMe.js
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
 const Neil = {
@@ -34,20 +29,25 @@ const Neil = {
     askMeAbout:["Everything"],
     technologies: {
         frontEnd:{
-            css: ["tailwind", "bootstrap"],
+            css: ["Tailwind", "Bootstrap"],
             framework: ["React", "Angular"]
         },
         backEnd:{
-            js: ["Node", "NestJs"],
+            js: ["Express", "NestJs"],
             c#: ["Dotnet"]
         },
         database: {
             SQL: ["SQL Server"],
-            noSQL: ["mongo"]
+            noSQL: ["Mongo"]
         }
     }
 }
 ```
+
+<h3 align="left">Connect with me:</h3>
+
+[![Twitter Badge](https://img.shields.io/badge/-@Nghia-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/neil_maddev)](https://twitter.com/neil_maddev) [![Instagram Badge](https://img.shields.io/badge/-@sudo.nghia-F44747?style=flat-square&labelColor=F44747&logo=instagram&logoColor=white&link=https://instagram.com/sudo.nghia)](https://instagram.com/sudo.nghia) [![Linkedin Badge](https://img.shields.io/badge/-NghiaTran-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nghiatran0502/)](https://www.linkedin.com/in/nghiatran0502/)
+[![Gmail Badge](https://img.shields.io/badge/-nd.madlife@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nd.madlife@gmail.com)](mailto:nd.madlife@gmail.com)
 
 ### Spotify Playing 🎸
 
