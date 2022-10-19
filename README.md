@@ -47,19 +47,31 @@ const Neil = {
 <h3 align="left">Connect with me:</h3>
 
 [![Twitter Badge](https://img.shields.io/badge/-@Nghia-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/neil_maddev)](https://twitter.com/neil_maddev) [![Instagram Badge](https://img.shields.io/badge/-@sudo.nghia-F44747?style=flat-square&labelColor=F44747&logo=instagram&logoColor=white&link=https://instagram.com/sudo.nghia)](https://instagram.com/sudo.nghia) [![Linkedin Badge](https://img.shields.io/badge/-NghiaTran-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nghiatran0502/)](https://www.linkedin.com/in/nghiatran0502/)
-[![Gmail Badge](https://img.shields.io/badge/-nd.madlife@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nd.madlife@gmail.com)](mailto:nd.madlife@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-nd.madlife@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nd.madlife@gmail.com)](mailto:nd.madlife@gmail.com) [![wakatime](https://wakatime.com/badge/user/98018afb-c649-4152-b3e1-18c27296e9f8.svg)](https://wakatime.com/@98018afb-c649-4152-b3e1-18c27296e9f8)
 
-### Spotify Playing 🎸
-
+<table>
+<tr>
+    <td valign="center">
+    
 [![Spotify](https://readme-spo.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+    </td>
+    <td valign="center">
+    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nghiatran0502&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+    </td>
+  </tr>
+</table>
+
+
 
 <!-- [![NghiaTran's GitHub stats](https://github-readme-stats.vercel.app/api?username=NghiaTran0502&theme=dracula&show_icons=true&count_private=true)](https://github.com/NghiaTran0502) -->
 
 <!-- [![NghiaTran's Language](https://github-readme-stats.vercel.app/api/top-langs?username=nghiatran0502&show_icons=true&locale=en&layout=compact&theme=dracula&count_private=true&hide=php)](https://github.com/NghiaTran0502) -->
 
-[![wakatime](https://wakatime.com/badge/user/98018afb-c649-4152-b3e1-18c27296e9f8.svg)](https://wakatime.com/@98018afb-c649-4152-b3e1-18c27296e9f8)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nghiatran0502&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
+![](./profile-3d-contrib/profile-gitblock.svg)
+
+
 
 <!--START_SECTION:waka-->
 
