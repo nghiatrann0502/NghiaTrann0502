@@ -43,6 +43,11 @@ const Neil = {
     }
 }
 ```
+### ⭐️ Hit in your console or terminal to connect with me.
+
+``` bash
+npx nghiatran0502
+```
 
 <h3 align="left">Connect with me:</h3>
 
