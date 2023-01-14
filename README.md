@@ -79,17 +79,17 @@ npx nghiatran0502
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-803%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-803%20hrs%207%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-39%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-40%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 15 Contributions in the Year 2023
+> 🏆 17 Contributions in the Year 2023
  > 
-> 📦 181.1 kB Used in GitHub's Storage 
+> 📦 181.6 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -100,8 +100,8 @@ npx nghiatran0502
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    44 commits     █████░░░░░░░░░░░░░░░░░░░░   20.85% 
-🌆 Daytime    95 commits     ███████████░░░░░░░░░░░░░░   45.02% 
+🌞 Morning    45 commits     █████░░░░░░░░░░░░░░░░░░░░   21.33% 
+🌆 Daytime    94 commits     ███████████░░░░░░░░░░░░░░   44.55% 
 🌃 Evening    62 commits     ███████░░░░░░░░░░░░░░░░░░   29.38% 
 🌙 Night      10 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.74%
 
@@ -109,11 +109,11 @@ npx nghiatran0502
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday       45 commits     █████░░░░░░░░░░░░░░░░░░░░   21.33% 
+Monday       43 commits     █████░░░░░░░░░░░░░░░░░░░░   20.38% 
 Tuesday      22 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.43% 
 Wednesday    59 commits     ███████░░░░░░░░░░░░░░░░░░   27.96% 
 Thursday     38 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.01% 
-Friday       19 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.0% 
+Friday       21 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.95% 
 Saturday     9 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.27% 
 Sunday       19 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.0%
 
@@ -153,5 +153,5 @@ Python                   1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/NghiaTran0502/NghiaTran0502/main/charts/bar_graph.png) 
 
 
- Last Updated on 13/01/2023 00:21:55 UTC
+ Last Updated on 14/01/2023 00:20:31 UTC
 <!--END_SECTION:waka-->
