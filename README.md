@@ -79,9 +79,9 @@ npx nghiatran0502
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-803%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-803%20hrs%2017%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-41%20Thousand%20lines%20of%20code-blue)
 
@@ -126,13 +126,15 @@ Sunday       19 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Bash                     11 mins             █████████████████████████   100.0%
+TypeScript               13 mins             █████████████░░░░░░░░░░░░   54.7% 
+Bash                     11 mins             ███████████░░░░░░░░░░░░░░   44.04% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.27%
 
 🔥 Editors: 
-Neovim                   11 mins             █████████████████████████   100.0%
+Neovim                   25 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      11 mins             █████████████████████████   100.0%
+Mac                      25 mins             █████████████████████████   100.0%
 
 ```
 
@@ -153,5 +155,5 @@ Python                   1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/NghiaTran0502/NghiaTran0502/main/charts/bar_graph.png) 
 
 
- Last Updated on 15/01/2023 00:22:10 UTC
+ Last Updated on 16/01/2023 00:21:13 UTC
 <!--END_SECTION:waka-->
