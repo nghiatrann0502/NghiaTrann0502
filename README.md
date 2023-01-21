@@ -79,7 +79,7 @@ npx nghiatran0502
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-803%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-806%20hrs%207%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
@@ -158,5 +158,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/NghiaTran0502/NghiaTran0502/main/charts/bar_graph.png) 
 
 
- Last Updated on 20/01/2023 00:22:35 UTC
+ Last Updated on 21/01/2023 00:20:27 UTC
 <!--END_SECTION:waka-->
