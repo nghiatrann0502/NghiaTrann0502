@@ -81,13 +81,13 @@ npx nghiatran0502
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-809%20hrs%2020%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-65%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 92 Contributions in the Year 2023
+> 🏆 93 Contributions in the Year 2023
  > 
 > 📦 183.0 kB Used in GitHub's Storage 
  > 
@@ -101,8 +101,8 @@ npx nghiatran0502
 
 ```text
 🌞 Morning    44 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.13% 
-🌆 Daytime    94 commits     ██████████░░░░░░░░░░░░░░░   40.87% 
-🌃 Evening    82 commits     █████████░░░░░░░░░░░░░░░░   35.65% 
+🌆 Daytime    95 commits     ██████████░░░░░░░░░░░░░░░   41.3% 
+🌃 Evening    81 commits     ████████░░░░░░░░░░░░░░░░░   35.22% 
 🌙 Night      10 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.35%
 
 ```
@@ -110,9 +110,9 @@ npx nghiatran0502
 
 ```text
 Monday       41 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.83% 
-Tuesday      33 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.35% 
+Tuesday      32 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.91% 
 Wednesday    68 commits     ███████░░░░░░░░░░░░░░░░░░   29.57% 
-Thursday     43 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.7% 
+Thursday     44 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.13% 
 Friday       13 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.65% 
 Saturday     13 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.65% 
 Sunday       19 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.26%
@@ -156,5 +156,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/NghiaTran0502/NghiaTran0502/main/charts/bar_graph.png) 
 
 
- Last Updated on 02/02/2023 00:21:25 UTC
+ Last Updated on 03/02/2023 00:22:08 UTC
 <!--END_SECTION:waka-->
