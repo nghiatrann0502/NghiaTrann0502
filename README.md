@@ -81,7 +81,7 @@ npx nghiatran0502
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-972%20hrs%2028%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.1%20million%20lines%20of%20code-blue)
 
@@ -124,16 +124,16 @@ Sunday                   458 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-JavaScript               15 hrs 6 mins       █████████████████████████   98.63 % 
-Bash                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+JavaScript               10 hrs 47 mins      █████████████████████████   99.08 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 🔥 Editors: 
-Neovim                   15 hrs 18 mins      █████████████████████████   100.00 % 
+Neovim                   10 hrs 53 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      15 hrs 18 mins      █████████████████████████   100.00 % 
+Mac                      10 hrs 53 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -153,5 +153,5 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/NghiaTran0502/NghiaTran0502/main/assets/bar_graph.png)
 
 
- Last Updated on 29/04/2023 00:18:04 UTC
+ Last Updated on 30/04/2023 00:20:04 UTC
 <!--END_SECTION:waka-->
