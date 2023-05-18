@@ -87,7 +87,7 @@ npx nghiatran0502
 
 **🐱 My GitHub Data** 
 
-> 📦 188.9 kB Used in GitHub's Storage 
+> 📦 189.0 kB Used in GitHub's Storage 
  > 
 > 🏆 244 Contributions in the Year 2023
  > 
@@ -124,14 +124,13 @@ Sunday                   482 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-JavaScript               9 hrs 23 mins       █████████████████████████   99.74 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+JavaScript               3 hrs 56 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Neovim                   9 hrs 25 mins       █████████████████████████   100.00 % 
+Neovim                   3 hrs 56 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      9 hrs 25 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 56 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -151,5 +150,5 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/NghiaTran0502/NghiaTran0502/main/assets/bar_graph.png)
 
 
- Last Updated on 17/05/2023 00:20:07 UTC
+ Last Updated on 18/05/2023 00:18:40 UTC
 <!--END_SECTION:waka-->
