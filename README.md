@@ -79,7 +79,7 @@ npx nghiatran0502
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-990%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-990%20hrs%2035%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -151,5 +151,5 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/NghiaTran0502/NghiaTran0502/main/assets/bar_graph.png)
 
 
- Last Updated on 19/05/2023 00:18:42 UTC
+ Last Updated on 20/05/2023 00:17:55 UTC
 <!--END_SECTION:waka-->
