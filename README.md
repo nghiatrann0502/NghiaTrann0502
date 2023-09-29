@@ -9,7 +9,7 @@
 
 <!-- - 🔭 I’m currently working at **STL Solution** -->
 
-- 💼 I'm a developer at **STL Solution**.
+- 💼 I'm a developer at **...**.
 
 - ❤️ I love **Programming**
 
