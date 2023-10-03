@@ -79,9 +79,9 @@ npx nghiatran0502
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C146%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C148%20hrs%2012%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.2%20million%20lines%20of%20code-blue)
 
@@ -124,17 +124,17 @@ Sunday                   336 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-JavaScript               23 hrs 48 mins      ███████████████████████░░   93.36 % 
-JSON                     58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
-Lua                      25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
-Ezhil                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
-Other                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+JavaScript               22 hrs 32 mins      ████████████████████████░   95.48 % 
+JSON                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
+Lua                      25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+Other                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🔥 Editors: 
-Neovim                   25 hrs 29 mins      █████████████████████████   100.00 % 
+Neovim                   23 hrs 36 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      25 hrs 29 mins      █████████████████████████   100.00 % 
+Mac                      23 hrs 36 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -154,5 +154,5 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/NghiaTran0502/NghiaTran0502/main/assets/bar_graph.png)
 
 
- Last Updated on 02/10/2023 00:17:55 UTC
+ Last Updated on 03/10/2023 00:17:44 UTC
 <!--END_SECTION:waka-->
