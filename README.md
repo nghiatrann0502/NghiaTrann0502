@@ -79,15 +79,15 @@ npx nghiatran0502
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C170%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C171%20hrs%2034%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.2%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 195.4 kB Used in GitHub's Storage 
+> 📦 195.5 kB Used in GitHub's Storage 
  > 
 > 🏆 292 Contributions in the Year 2023
  > 
@@ -124,17 +124,17 @@ Sunday                   366 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-JavaScript               7 hrs 58 mins       █████████████████████░░░░   85.46 % 
-YAML                     35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
-fish                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
-Other                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
-TOML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+JavaScript               5 hrs 10 mins       ██████████████████░░░░░░░   73.34 % 
+YAML                     37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
+fish                     28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
+Lua                      25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
+Other                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
 
 🔥 Editors: 
-Neovim                   9 hrs 20 mins       █████████████████████████   100.00 % 
+Neovim                   7 hrs 3 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      9 hrs 20 mins       █████████████████████████   100.00 % 
+Mac                      7 hrs 3 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -154,5 +154,5 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/NghiaTran0502/NghiaTran0502/main/assets/bar_graph.png)
 
 
- Last Updated on 13/10/2023 00:18:10 UTC
+ Last Updated on 14/10/2023 00:16:54 UTC
 <!--END_SECTION:waka-->
