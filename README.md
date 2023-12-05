@@ -124,17 +124,13 @@ Sunday                   548 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-TypeScript               1 hr 6 mins         ████████░░░░░░░░░░░░░░░░░   31.64 % 
-JavaScript               39 mins             █████░░░░░░░░░░░░░░░░░░░░   18.71 % 
-YAML                     37 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.88 % 
-conf                     31 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
-Bash                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   3 hrs 30 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      3 hrs 30 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -154,5 +150,5 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/NghiaTran0502/NghiaTran0502/main/assets/bar_graph.png)
 
 
- Last Updated on 04/12/2023 00:19:39 UTC
+ Last Updated on 05/12/2023 00:18:56 UTC
 <!--END_SECTION:waka-->
