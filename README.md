@@ -87,7 +87,7 @@ npx nghiatran0502
 
 **🐱 My GitHub Data** 
 
-> 📦 196.5 kB Used in GitHub's Storage 
+> 📦 196.6 kB Used in GitHub's Storage 
  > 
 > 🏆 306 Contributions in the Year 2023
  > 
@@ -150,5 +150,5 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/NghiaTran0502/NghiaTran0502/main/assets/bar_graph.png)
 
 
- Last Updated on 10/12/2023 00:20:30 UTC
+ Last Updated on 11/12/2023 00:19:15 UTC
 <!--END_SECTION:waka-->
